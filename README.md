@@ -9,7 +9,7 @@ este é o meu primeiro projeto HTML e CSS aonde quis trazer uma visão da loja d
 
 <p>Caso queiram entrar em contato, clquem em um dos icones abaixo </p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/hellerson-murilo-bezerra-calabianqui-de-souza-2626b823a) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]([https://www.instagram.com/USERNAME/](https://www.instagram.com/murilo_calabianqui/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://br.linkedin.com/in/hellerson-murilo-bezerra-calabianqui-de-souza-2626b823a) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/murilo_calabianqui/)
 
 <h3> O projeto ainda não se encontra responsivo, resolução adequada para visualização: 1230 x 831. </h3> 
 
